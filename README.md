@@ -6,6 +6,7 @@ Completed project per instructions on The Odin Project with a few visual tweaks.
 into coding, I elected to add my own flair to the assigned pages:
 
 -Added line breaks in areas that made sense based on VSCode line breaks
+
 -Utilized Emmet shorcuts to create elements, where appropriate (ie. ul>li\*10, etc)
 
 Learning to make it a point to commit to GIT often and after as few changes as possible to keep commit messages within the
